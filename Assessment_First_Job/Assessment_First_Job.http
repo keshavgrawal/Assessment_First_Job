@@ -1,0 +1,6 @@
+@Assessment_First_Job_HostAddress = http://localhost:5122
+
+GET {{Assessment_First_Job_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
